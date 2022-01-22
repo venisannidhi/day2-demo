@@ -8,3 +8,8 @@ p
     color: red;
     font-size: medium;
 }
+nav ul li
+{
+	list-style: none;
+	color: green;
+}
